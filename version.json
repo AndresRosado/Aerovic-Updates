@@ -1,8 +1,8 @@
 {
-    "versionCode":  1003,
-    "versionName":  "3.5",
+    "versionCode":  1004,
+    "versionName":  "3.6",
     "apkUrl":  "https://github.com/AndresRosado/Aerovic-Updates/releases/latest/download/Aerovic-Inspectores.apk",
-    "sha256":  "1e8957456d9d344be308e2534d0f02ad781121091c6a5db28c0376ed3b2c4da8",
+    "sha256":  "55834214402fecf6bc8cb4acd026e358019b85095f61331f0dc013dd7f943ada",
     "mandatory":  false,
-    "notas":  "Mejoras en GPS"
+    "notas":  "Correcciones y mejoras."
 }
