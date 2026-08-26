@@ -1,8 +1,8 @@
 {
-    "versionCode":  1004,
-    "versionName":  "3.6",
+    "versionCode":  1005,
+    "versionName":  "3.7",
     "apkUrl":  "https://github.com/AndresRosado/Aerovic-Updates/releases/latest/download/Aerovic-Inspectores.apk",
-    "sha256":  "55834214402fecf6bc8cb4acd026e358019b85095f61331f0dc013dd7f943ada",
+    "sha256":  "eecd933ed9537629aeac0f55d8298148e9d07a96e15d5a579c119e9e7a7322c8",
     "mandatory":  false,
     "notas":  "Correcciones y mejoras."
 }
